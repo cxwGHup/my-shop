@@ -14,6 +14,7 @@
         <module>my-shop-commons</module>
         <module>my-shop-domain</module>
         <module>my-shop-web-admin</module>
+        <module>my-shop-web-ui</module>
 
     </modules>
 </project>

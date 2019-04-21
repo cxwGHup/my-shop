@@ -9,6 +9,7 @@
         <module name="my-shop-commons" />
         <module name="my-shop-domain" />
         <module name="my-shop-web-admin" />
+        <module name="my-shop-web-ui" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="my-shop-dependencies" target="1.8" />
       <module name="my-shop-domain" target="1.8" />
       <module name="my-shop-web-admin" target="1.8" />
+      <module name="my-shop-web-ui" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
