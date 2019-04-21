@@ -13,6 +13,7 @@
         <module>my-shop-dependencies</module>
         <module>my-shop-commons</module>
         <module>my-shop-domain</module>
+        <module>my-shop-web-admin</module>
 
     </modules>
 </project>
