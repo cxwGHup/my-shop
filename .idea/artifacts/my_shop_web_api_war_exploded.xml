@@ -6,6 +6,11 @@
         <element id="directory" name="classes">
           <element id="module-output" name="my-shop-web-api" />
         </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="my-shop-commons-1.0.0-SNAPSHOT.jar">
+            <element id="module-output" name="my-shop-commons" />
+          </element>
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/my-shop-web-api/target/my-shop-web-api-1.0.0-SNAPSHOT/META-INF/MANIFEST.MF" />
