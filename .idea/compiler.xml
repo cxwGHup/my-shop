@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="my-shop" target="1.5" />
+      <module name="my-shop-dependencies" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
