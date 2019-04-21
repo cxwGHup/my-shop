@@ -11,6 +11,8 @@
 
     <modules>
         <module>my-shop-dependencies</module>
+        <module>my-shop-commons</module>
+        <module>my-shop-domain</module>
 
     </modules>
 </project>
